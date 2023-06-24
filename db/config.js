@@ -1,3 +1,3 @@
 const mongoose=require('mongoose');
-const url='mongodb://127.0.0.1:27017/e-commerce';
+const url='mongodb+srv://suvojitchatterjee100:zVtDtSPBerZdP4FD@cluster0.5rzeiug.mongodb.net/ecommerce';
 mongoose.connect(url);
